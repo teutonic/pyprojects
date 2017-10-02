@@ -1,0 +1,2 @@
+# pyprojects
+random py exercises
